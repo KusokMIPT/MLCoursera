@@ -1,2 +1,4 @@
 # MLCoursera
-Machine learning course homework from Yandex &amp; MIPT
+.ipynb - мой код
+.pdf - конспекты с Couersera
+.csv - датасеты
