@@ -1,6 +1,8 @@
 # MLCoursera
 .ipynb - мой код
-.pdf - конспекты с Couersera
+
+.pdf - конспекты с Coursera
+
 .csv - датасеты
 
 # 2sem
